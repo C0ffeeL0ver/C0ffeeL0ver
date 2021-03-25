@@ -21,10 +21,9 @@ https://github.com/C0ffeeL0ver/github-readme-stats
 <div style="margin-top:30px">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=tokyonight" />
 </div>
----
 <!--
 **Fytex/Fytex** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 Here are some ideas to get you started:
 
 - :telescope: I’m currently working on ...
