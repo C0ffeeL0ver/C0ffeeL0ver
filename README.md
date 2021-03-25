@@ -17,10 +17,10 @@ https://github.com/C0ffeeL0ver/github-readme-stats
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=C0ffeeL0ver&show_icons=true&theme=tokyonight" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ffeeL0ver&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
 </div>
-<br><br><br><br>
-<div>
+
+<div style="margin-top:30px">
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=tokyonight" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=omni" />
+  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=omni" />
 </div>
 <!--
 **Fytex/Fytex** is a :sparkles: _special_ :sparkles: repository because its `README.md` (this file) appears on your GitHub profile.
