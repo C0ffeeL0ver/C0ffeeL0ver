@@ -19,7 +19,7 @@ https://github.com/C0ffeeL0ver/github-readme-stats
 </div>
 <br><br><br><br>
 <div>
-  <img height="150" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=tokyonight" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=tokyonight" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=C0ffeeL0ver&repo=DankMemer_Farm&theme=omni" />
 </div>
 <!--
