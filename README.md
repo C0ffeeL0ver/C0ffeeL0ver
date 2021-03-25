@@ -14,8 +14,9 @@ https://github.com/C0ffeeL0ver/github-readme-stats
 -->
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=C0ffeeL0ver&show_icons=true&theme=kacho_ga" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=C0ffeeL0ver&show_icons=true&theme=tokyonight" />
   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C0ffeeL0ver&layout=compact&title_color=fff&text_color=fff&bg_color=151515" />
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
 <!--
