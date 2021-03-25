@@ -1,14 +1,7 @@
-# What's up! You can call me Fytex
-
-  
-> If you want to contact me join my [Discord Server](https://discord.com/invite/hNGAWVH) and DM me: Fytex#4389 
+# What's up! You can call me CoffeeLover
 
 
-> If you would like to make me a millionaire, thanks in advance:
-
-[![paypal.me/fytex](https://ionicabizau.github.io/badges/paypal.svg)](https://www.paypal.me/fytex)
-
-[![GitHub Fytex](https://img.shields.io/github/followers/fytex?label=follow&style=social)](https://github.com/C0ffeeL0ver)
+[![GitHub Fytex](https://img.shields.io/github/followers/C0ffeeL0ver?label=follow&style=social)](https://github.com/C0ffeeL0ver)
 
 ---
 
